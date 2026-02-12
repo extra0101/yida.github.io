@@ -5,9 +5,9 @@ permalink: /about/
 author_profile: true
 ---
 
-My background combines operations research, optimization, and learning-augmented decision-making for urban logistics.
+I am currently a third-year M.S. student at Tianjin University. My background combines operations research, optimization, and learning-augmented decision-making for urban logistics. If you are interested in my work or want to collaborate, feel free to contact me via: xuyida@tju.edu.cn. <span style="color:red;">I am actively seeking Ph.D. positions starting in Fall 2026!</span>
 
-## Education & Experience
+## 📖 Education & Experience
 
 |  | Ranking | Dates |
 |---|---:|---:|
@@ -16,16 +16,11 @@ My background combines operations research, optimization, and learning-augmented
 | **Saint Peter's University (USA)**<br>Short-Term High School Exchange Program | — | *Jul 2017 – Aug 2017* |
 
 
-## Research & Collaboration
+## 👨‍💻 Research & Collaboration
 
 - **Model inversion attacks on discrete choice models (DCMs)** — supervised by [Dr. Baichuan Mo (MIT)](https://www.mit.edu/~baichuan/index.html); part of the MIT–UF–NU summer research camp; in collaboration with [Prof. Jinhua Zhao (MIT)](https://mobility.mit.edu/people/jinhua-zhao/), [Prof. Haris Koutsopoulos (Northeastern University)](https://coe.northeastern.edu/people/koutsopoulos-haris/), [Prof. Shenhao Wang (University of Florida)](https://dcp.ufl.edu/urp/people_wang_s/), and [Dr. Dingyi Zhuang (MIT)](https://zhuangdingyi.github.io/).
 - **Sustainable Operations in Urban Logistics (SOUL)** — collaborated with [Prof. Jan C. Fransoo (Tilburg University)](https://www.tilburguniversity.edu/staff/jan-fransoo), [Prof. Walid Klibi (Kedge Business School)](https://student.kedge.edu/faculty-directory/walid-klibi), [Prof. Lei Zhao (Tsinghua University)](https://www.ie.tsinghua.edu.cn/eng/info/1051/1016.htm), and [Prof. Zhaoxia Guo (Sichuan University)](https://bs.scu.edu.cn/gongye/201904/5203.html).
 - **Data-driven parallel machine scheduling (Company L)** — supervised by [Prof. Kan Fang (TJU)](https://faculty.tju.edu.cn/FangKan/en/index.htm).
-
-## PhD Seeking
-
-<span style="color:red;">I am actively seeking PhD opportunities to develop challenging and inspiring ideas at the intersection of operations research and machine learning. At the same time, I remain broadly excited about other operations research topics and am open to exploring diverse OR-related problems.</span>
-
 
 # NEWS
 
