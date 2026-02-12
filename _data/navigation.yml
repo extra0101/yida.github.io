@@ -4,7 +4,13 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Awards"
+    url: /awards/
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -14,15 +20,10 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+
   # - title: "中文"
   #   url: /chinese/
     
   # - title: "Guide"
   #  url: /markdown/
-  
-  - title: "Awards"
-   url: /awards/
+
