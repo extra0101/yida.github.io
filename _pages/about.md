@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "About me"
+title: "Homepage"
 permalink: /about/
 author_profile: true
 ---
+
+## 😄 About Me
 
 I am currently a third-year M.S. student at Tianjin University. My background combines operations research, optimization, and learning-augmented decision-making for urban logistics. If you are interested in my work or want to collaborate, feel free to contact me via: xuyida@tju.edu.cn. <span style="color:red;">I am actively seeking Ph.D. positions starting in Fall 2026!</span>
 
@@ -22,7 +24,7 @@ I am currently a third-year M.S. student at Tianjin University. My background co
 - **Sustainable Operations in Urban Logistics (SOUL)** — collaborated with [Prof. Jan C. Fransoo (Tilburg University)](https://www.tilburguniversity.edu/staff/jan-fransoo), [Prof. Walid Klibi (Kedge Business School)](https://student.kedge.edu/faculty-directory/walid-klibi), [Prof. Lei Zhao (Tsinghua University)](https://www.ie.tsinghua.edu.cn/eng/info/1051/1016.htm), and [Prof. Zhaoxia Guo (Sichuan University)](https://bs.scu.edu.cn/gongye/201904/5203.html).
 - **Data-driven parallel machine scheduling (Company L)** — supervised by [Prof. Kan Fang (TJU)](https://faculty.tju.edu.cn/FangKan/en/index.htm).
 
-# NEWS
+# 🎉 NEWS
 
 ## Paper is on the way
 
