@@ -1,25 +1,28 @@
 ---
-permalink: /
+layout: single
 title: "About me"
-excerpt: "About me"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-My research interests lie in operations research and decision-making for urban logistics, with an emphasis on optimization and learning-augmented algorithms for real-world and large-scale optimization problems (e.g., vehicle routing problems, machine scheduling problems).
+My background combines operations research, optimization, and learning-augmented decision-making for urban logistics.
 
-I am currently a Master's student in Management Science and Engineering at [Tianjin University(TJU)](https://www.tju.edu.cn/) since the fall of 2023 under the supervision of [Prof. Zhaofang Mao](https://come.tju.edu.cn/info/1539/5758.htm). I also received my Bachelor's degree at [Tianjin University(TJU)](https://www.tju.edu.cn/) in 2023.
+## Education & Experience
 
-I have worked on the model inversion attacks on discrete choice models (DCMs) under the supervision of [Dr. Baichuan Mo, MIT](https://www.mit.edu/~baichuan/index.html). This project is part of the MIT-UF-NU summer research camp, and is being undertaken in collaboration with [Prof. Jinhua Zhao, MIT](https://mobility.mit.edu/people/jinhua-zhao/), [Prof. Haris Koutsopoulos, NEU](https://coe.northeastern.edu/people/koutsopoulos-haris/), [Prof. Shenhao Wang, UF](https://dcp.ufl.edu/urp/people_wang_s/) and [Dr. Dingyi Zhuang, MIT]([https://www.mit.edu/~baichuan/index.html](https://zhuangdingyi.github.io/)). 
+|  |  |
+|---|---:|
+| **Tianjin University (TJU)**<br>Master's Student, Management Science and Engineering (Supervisor: [Prof. Zhaofang Mao](https://come.tju.edu.cn/info/1539/5758.htm)) | *2023/09 – Present* |
+| **Tianjin University (TJU)**<br>B.E. Logistics Engineering | *2019/09 – 2023/06* |
 
-I have worked on Sustainable Operations in Urban Logistics (SOUL) program colloborated with [Prof.Jan Fransoo, Tilburg University](https://www.tilburguniversity.edu/staff/jan-fransoo), [Prof. Walid KLIBI, Kedge Business School](https://student.kedge.edu/faculty-directory/walid-klibi), [Prof. Lei Zhao, Tsinghua University](https://www.ie.tsinghua.edu.cn/eng/info/1051/1016.htm)  and [Prof. Zhaoxia Guo, Sichuan University](https://bs.scu.edu.cn/gongye/201904/5203.html).
+## Research & Collaboration
 
-I have worked on the data-driven parallel machine scheduling problems in company L under the supervision of [Prof. Kan Fang, TJU](https://faculty.tju.edu.cn/FangKan/en/index.htm).
+- **Model inversion attacks on discrete choice models (DCMs)** — supervised by [Dr. Baichuan Mo (MIT)](https://www.mit.edu/~baichuan/index.html); part of the MIT–UF–NU summer research camp; in collaboration with [Prof. Jinhua Zhao (MIT)](https://mobility.mit.edu/people/jinhua-zhao/), [Prof. Haris Koutsopoulos (Northeastern University)](https://coe.northeastern.edu/people/koutsopoulos-haris/), [Prof. Shenhao Wang (University of Florida)](https://dcp.ufl.edu/urp/people_wang_s/), and [Dr. Dingyi Zhuang (MIT)](https://zhuangdingyi.github.io/).
+- **Sustainable Operations in Urban Logistics (SOUL)** — collaborated with [Prof. Jan C. Fransoo (Tilburg University)](https://www.tilburguniversity.edu/staff/jan-fransoo), [Prof. Walid Klibi (Kedge Business School)](https://student.kedge.edu/faculty-directory/walid-klibi), [Prof. Lei Zhao (Tsinghua University)](https://www.ie.tsinghua.edu.cn/eng/info/1051/1016.htm), and [Prof. Zhaoxia Guo (Sichuan University)](https://bs.scu.edu.cn/gongye/201904/5203.html).
+- **Data-driven parallel machine scheduling (Company L)** — supervised by [Prof. Kan Fang (TJU)](https://faculty.tju.edu.cn/FangKan/en/index.htm).
 
-Currently, I am actively seeking PhD opportunities to develop challenging and inspiring ideas at the intersection of operations research and machine learning. At the same time, I remain broadly excited about other operations research topics and am open to exploring diverse OR-related problems!
+## PhD Seeking
 
+<span style="color:red;">I am actively seeking PhD opportunities to develop challenging and inspiring ideas at the intersection of operations research and machine learning. At the same time, I remain broadly excited about other operations research topics and am open to exploring diverse OR-related problems.</span>
 
 
 # NEWS
