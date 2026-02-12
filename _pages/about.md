@@ -7,7 +7,7 @@ author_profile: true
 
 ## 😄 About Me
 
-I am currently a third-year M.S. student at Tianjin University. My background combines operations research, optimization, and learning-augmented decision-making for urban logistics. If you are interested in my work or want to collaborate, feel free to contact me via: xuyida@tju.edu.cn. <span style="color:red;">I am actively seeking Ph.D. positions starting in Fall 2026!</span>
+I am currently a third-year M.S. student at Tianjin University. My background combines operations research, optimization, and learning-augmented decision-making for urban logistics. If you are interested in my work or want to collaborate, feel free to contact me via: xuyida[at]tju[dot]edu[dot]cn. <span style="color:red;">I am actively seeking Ph.D. positions starting in Fall 2026!</span>
 
 ## 📖 Education & Experience
 
