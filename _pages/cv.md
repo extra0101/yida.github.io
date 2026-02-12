@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV (PDF)]({{ "/file/CV_YidaXu.pdf" | relative_url }})
+[Download CV (PDF)]({{ "/files/CV_YidaXu.pdf" | relative_url }})
 
